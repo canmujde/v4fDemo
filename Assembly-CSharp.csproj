@@ -99,7 +99,6 @@
      <None Include="Assets\Asset\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\Asset\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
      <None Include="Assets\Asset\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-     <None Include="Assets\Asset\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
      <None Include="Assets\Asset\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.1.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
