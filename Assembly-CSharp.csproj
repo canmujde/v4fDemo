@@ -73,6 +73,8 @@
     <Compile Include="Assets\Scripts\ScaleUpAnimator.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\Page.cs" />
+    <Compile Include="Assets\Scripts\VehicleDestroyer.cs" />
+    <Compile Include="Assets\Scripts\DestroyAfterTime.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Asset\TextMesh Pro\Shaders\TMPro.cginc" />
