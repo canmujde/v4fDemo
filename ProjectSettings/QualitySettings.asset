@@ -40,7 +40,8 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 167e22339bd05284ca25aa55a8b25a9d, type: 2}
+    customRenderPipeline: {fileID: 11400000, guid: 167e22339bd05284ca25aa55a8b25a9d,
+      type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Low
@@ -220,7 +221,8 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 167e22339bd05284ca25aa55a8b25a9d, type: 2}
+    customRenderPipeline: {fileID: 11400000, guid: 167e22339bd05284ca25aa55a8b25a9d,
+      type: 2}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 0
